@@ -8,7 +8,7 @@ while(1)
 PORTB = 0xFF;
 delay(65000);
 PORTB =0x00;
-delay (650);
+delay (65000);
 
 
 }
